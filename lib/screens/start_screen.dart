@@ -21,7 +21,7 @@ class StartScreen extends StatelessWidget {
           Text(
             'Learn Flutter the fun way!',
             style: GoogleFonts.poppins(
-              color: Color.fromARGB(255, 244, 214, 248),
+              color: const Color.fromARGB(255, 244, 214, 248),
               fontSize: 24,
               fontWeight: FontWeight.bold,
             ),
